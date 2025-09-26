@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue" alt="visitors"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello!;Konnichiwa!;Hola!;Bonjour!;Ciao!;Annyeong!;Namaste!" alt="Dynamic Greetings"/>
 </p>
 
 <p align="center">
@@ -76,3 +76,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyche-ee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=psyche-ee&color=blue" alt="visitors"/>
+</p>
+
