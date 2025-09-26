@@ -3,20 +3,24 @@
 </p>
 
 
-<p align="center">
-   👋 Hi there, I’m Eduardo Belda Jr.
-</p>
+<h1 align="center">👋 Hi there, I’m Eduardo Belda Jr.</h1>
 
 <p align="center">
-  💡 A passionate programmer with a **flair** for building efficient and scalable web applications.
+   💡 A passionate learner, always striving for growth and improvement.
 </p>
 
 ---
 
 <p align="center">
-  👨‍💻 I'm currently a developer. <br>
-  🌱 Always curious about new technologies, continuously improving my skills. <br>
-  ⚡ Fun Fact: Programmers spend 90% of their time trying to fix a bug, only to realize it was a missing semicolon!
+  🎓 3rd Year BSIT Student <br>
+  👨‍💻 Exploring the world of tech, coding, and problem-solving <br>
+  🌱 Constantly curious about new technologies and building useful projects <br>
+</p>
+
+---
+
+<p align="center">
+  🚀 "Learning never stops, and every line of code is a step forward."  
 </p>
 
 <p align="center">
