@@ -5,10 +5,6 @@
 
 <h1 align="center">👋 Hi there, I’m Eduardo Belda Jr.</h1>
 
-<p align="center">
-   💡 A passionate learner, always striving for growth and improvement.
-</p>
-
 ---
 
 <p align="center">
