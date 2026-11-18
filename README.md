@@ -31,5 +31,5 @@
 <h2 align="center">Tools & Platforms</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,figma,git,github,vscode,phpstorm" />
+  <img src="https://skillicons.dev/icons?i=postgres,figma,git,github,vscode,phpstorm,postman" />
 </p>
