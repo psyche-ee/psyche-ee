@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=5000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello!;Hola!;Bonjour!;Ciao!;Annyeong!;Namaste!" alt="Dynamic Greetings"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+with+purpose.;Learning+without+limits.;Solving+real+problems." alt="Typing SVG"/>
 </p>
 
 <h1 align="center">Eduardo Belda Jr.</h1>
